@@ -1,7 +1,6 @@
 # Junior QA Tester Portfolio
 
 ## Test Cases (130+)
-[View Test Cases Excel](Test-Cases-100plus.xlsx)
 - Login flows (practicetestautomation.com)
 - Banking app workflows (Applitools demo)
 currency exchange app (Screenshopt provided in excel)
